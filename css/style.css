@@ -1,0 +1,49 @@
+body{
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  color: black;}
+/* body div {
+  border: 1px solid red; } */
+  body div a {
+    color: #61C70E !important; }
+    body div a:hover {
+      color: green !important;}
+body div ul li a{
+  background-color: #61C70E !important;
+  border-radius: 10px;
+  color: white !important;}
+  body div ul li a:hover{
+    background-color: green !important;
+    color: white !important;}
+.btn1 a{
+  background-color: #61C70E !important;
+  border-radius: 10px;
+  color: white !important;}
+  .btn1 a:hover{
+    background-color: green !important;
+    color: white !important;}
+nav{
+  background-color: white !important; }
+  #headerBg{
+    background-color: #C4BDBF; }
+  .headerImg img{
+    width:100%;
+    height:100%;
+    object-fit:cover; }
+  #section2{
+    background-color: #C4BDBF;}
+    #payment{
+      background-color: #61C70E;
+      color: white; }
+.btn2 a{
+  background-color: white !important;
+  border-radius: 10px;
+  color: #61C70E !important;}
+  .btn2 a:hover{
+    background-color: #C4BDBF !important;
+    color: green !important;}
+  #footer{
+    background-color: #C4BDBF !important;}
+  .footer ul{
+    list-style-type: none;}
+    .footer ul li{
+      display: inline;}
